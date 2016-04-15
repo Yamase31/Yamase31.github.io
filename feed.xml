@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <description>Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript</description>
+    <link>http://nandomoreira.me/nandomoreira-jekyll-theme/</link>
+    <atom:link href="http://nandomoreira.me/nandomoreira-jekyll-theme/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 12:12:22 -0500</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 12:12:22 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Sat, 12 Nov 2016 10:39:18 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/what-is-responsive-design%3F-what-are-best-practices-for-responsive-design%3F/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/what-is-responsive-design%3F-what-are-best-practices-for-responsive-design%3F/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Thu, 04 Feb 2016 08:00:00 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/think-like-a-programmer/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/think-like-a-programmer/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Thu, 12 Nov 2015 10:42:24 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Thu, 12 Nov 2015 10:41:50 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Thu, 12 Nov 2015 10:08:24 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/welcome-to-jekyll/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Mar 2015 16:38:20 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/far-far-away-behind-the-word-mountains-far-from-the-countries-vokalia-and-consonantia/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/far-far-away-behind-the-word-mountains-far-from-the-countries-vokalia-and-consonantia/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
